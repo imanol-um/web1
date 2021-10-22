@@ -1,0 +1,66 @@
+
+    @font-face {
+        font-family: FuenteIma;
+        src: url(Fuente/who\ asks\ satan.ttf);
+    }
+
+body{
+    background-color: lightpink;
+    font-family: monospace;
+    padding: 5cm;
+}   
+
+.fondoblanco{
+    background-color: white;
+}
+
+.fondoazul{
+    background-color: rgb(33, 146, 199);
+}
+
+.fondonegro{
+    background-color: black;
+}
+
+.texto1{
+    text-align: center;
+    font-size: 95px;
+    color: darkgray;
+}
+
+.texto2{
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    font-family: FuenteIma;
+}
+
+.texto3{
+    font-size: 16px;
+    text-align: center;
+    color: white;
+}
+
+.texto4{
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
+
+.imagenEstilo{
+    width: 100%;
+    text-align: center;
+}
+
+.bordeblanco{
+    border: 20px solid white;
+    border-radius: 15px;
+}
+.fondoimagen{
+    background-image: url(Media/122095611_192646192389924_1287870189844661799_o.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: 10rem;
+    padding: 25px;
+}
