@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(26, 188, 156);
+}
+
+.fondoverde{
+    background-color: rgb(46, 204, 113);
+}
+
+.fondorojo{
+    background-color: rgb(231, 76, 60);
+}
+
+.fondomorado{
+    background-color: rgb(155, 89, 182);
+}
+
+.fondoazulclaro{
+    background-color: rgb(0, 255, 255);
+}
+
+
+.texto2{
+    text-align: center;  
+    font-size: 30px;
+    color: black;
+}
+
+.texto1{
+    font-size: 30px;
+    color: black;
+    text-align: left;
+}
+
+.texto3{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+.texto4{
+    font-size: 30px;
+    color: white;
+    text-align: left;
+}
+
+.bordeblanco{
+    border: 3px solid white;
+}
+
+.bordeblanco2{
+
+    border: 5px solid white;
+}
+
+.tamañotabla1{
+    width: 300px;
+    height: 400px;
+}
+
+.tamañotabla2{
+    width: 600px;
+    height: 400px;
+}
+
+.padding{
+    padding: 2px;
+}
+
+.elultimo{
+    padding: -5px;
+    border: 5px solid white;
+}
+
+/*Para el segundo ejemplo*/
+
+.bordepunteado{
+    border: 3px dashed;
+    width: 925px;
+
+}
+
+.bordepunteado2{
+    border: 3px dashed red;
+    background-clip: content-box;
+    padding: 3px;
+    margin-bottom: -3px;
+
+}
+
+
+
